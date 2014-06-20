@@ -1,0 +1,15 @@
+<div class="col-md-12">
+  <h1>Systems with Exoplanets</h1>
+  <table class="table">
+    <thead>
+      <th>Name</th>
+      <th>Distance</th>
+    </thead>
+    <tbody>
+      <tr ng-repeat="system in systems">
+        <td><a href="#/systems/{{system.id}}">{{system.name}}</a></td>
+        <td>{{system.distance}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

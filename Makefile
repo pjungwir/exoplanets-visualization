@@ -1,0 +1,2 @@
+planets:
+	./make-planets.rb
