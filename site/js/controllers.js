@@ -1,17 +1,12 @@
 var exoplanetsControllers = angular.module('exoplanetsControllers', []);
 
-exoplanetsControllers.controller('SystemsCtrl', ['$scope', '$http', function($scope, $http) {
-  $http.get('/systems.json').success(function(data) {
-    $scope.systems = data;
-  });
-
+exoplanetsControllers.controller('SystemsCtrl', ['$scope', 'System', function($scope, System) {
+  $scope.systems = System.query();
   $scope.orderProp = 'distance';
 }]);
 
-exoplanetsControllers.controller('SystemCtrl', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
-  $scope.id = $routeParams.id;
-  $http.get('/systems.json').success(function(data) {
-    $scope.system = _.find(data, function(sys) { return '' + sys.id === $scope.id });
+exoplanetsControllers.controller('SystemCtrl', ['$scope', 'System', '$routeParams', function($scope, System, $routeParams) {
+  $scope.system = System.get({id: $routeParams.id}, function(system) {
   });
 }]);
 

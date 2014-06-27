@@ -1,6 +1,7 @@
 var exoplanetsApp = angular.module('exoplanetsApp', [
     'ngRoute',
-    'exoplanetsControllers'
+    'exoplanetsControllers',
+    'exoplanetsServices'
 ]);
 
 exoplanetsApp.config(['$routeProvider', function($routeProvider) {
