@@ -9,7 +9,7 @@ exoplanetsApp.config(['$routeProvider', function($routeProvider) {
     templateUrl: 'partials/systems.html',
     controller: 'SystemsCtrl'
   }).
-  when('/systems/:id', {
+  when('/systems/:id*', {
     templateUrl: 'partials/system.html',
     controller: 'SystemCtrl'
   }).

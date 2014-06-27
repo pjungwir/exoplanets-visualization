@@ -43,7 +43,7 @@ FileUtils::remove_entry_secure output_dir, true
 FileUtils::mkdir output_dir
 
 stars.values.each do |star|
-  File.open(File.join(output_dir, "#{star[:id]}.json"), 'w') do |f|
+  File.open(File.join(output_dir, "#{star[:name]}.json"), 'w') do |f|
     # puts star.to_json
     f.write(star.to_json)
   end

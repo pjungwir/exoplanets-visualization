@@ -6,6 +6,7 @@ exoplanetsControllers.controller('SystemsCtrl', ['$scope', 'System', function($s
 }]);
 
 exoplanetsControllers.controller('SystemCtrl', ['$scope', 'System', '$routeParams', function($scope, System, $routeParams) {
+  console.log($routeParams.id);
   $scope.system = System.get({id: $routeParams.id}, function(system) {
   });
 }]);
