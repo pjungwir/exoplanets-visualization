@@ -1,4 +1,31 @@
-<div class="col-md-12">
-  <h1>{{system.name}}</h1>
 
+<div class="col-md-3">
+  <h1>{{system.name}}</h1>
+  <div class="well">
+    TODO a list of system facts here
+  </div>
 </div>
+<div class="col-md-9">
+  <h1>&nbsp;</h1>
+  <h2>Planets</h2>
+
+  <table class="table table-bordered table-striped table-hover">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Mass</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="p in system.planets">
+        <td>{{ p.name }}</td>
+        <td>{{ p.mass }}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="well" id="orbits-visualization">
+    TODO: d3.js
+  </div>
+</div>
+
