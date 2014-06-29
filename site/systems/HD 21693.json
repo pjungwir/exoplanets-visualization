@@ -1,1 +1,1 @@
-{"id":"HD+21693","name":"HD 21693","distance":"32.4","mass":null,"radius":null,"planets":[{"name":"HD 21693 b","mass":"0.0322","radius":null,"period":"22.656"},{"name":"HD 21693 c","mass":"0.06472","radius":null,"period":"53.881"}]}
+{"id":"HD+21693","name":"HD 21693","distance":"32.4","mass":null,"radius":null,"planets":[{"name":"HD 21693 b","mass":"0.0322","radius":null,"orbit":"0.1484","period":"22.656"},{"name":"HD 21693 c","mass":"0.06472","radius":null,"orbit":"0.2644","period":"53.881"}]}

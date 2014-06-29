@@ -1,1 +1,1 @@
-{"id":"HIP+5158","name":"HIP 5158","distance":"45.0","mass":"0.78","radius":null,"planets":[{"name":"HIP 5158 b","mass":"1.44","radius":null,"period":"345.63"},{"name":"HIP 5158 c","mass":"15.04","radius":null,"period":"9018.0"}]}
+{"id":"HIP+5158","name":"HIP 5158","distance":"45.0","mass":"0.78","radius":null,"planets":[{"name":"HIP 5158 b","mass":"1.44","radius":null,"orbit":"0.89","period":"345.63"},{"name":"HIP 5158 c","mass":"15.04","radius":null,"orbit":"7.7","period":"9018.0"}]}

@@ -1,1 +1,1 @@
-{"id":"HAT-P-17","name":"HAT-P-17","distance":"90.0","mass":"0.857","radius":"0.837","planets":[{"name":"HAT-P-17 b","mass":"0.534","radius":"1.01","period":"10.338523"},{"name":"HAT-P-17 c","mass":"1.4","radius":null,"period":"1798.0"}]}
+{"id":"HAT-P-17","name":"HAT-P-17","distance":"90.0","mass":"0.857","radius":"0.837","planets":[{"name":"HAT-P-17 b","mass":"0.534","radius":"1.01","orbit":"0.0882","period":"10.338523"},{"name":"HAT-P-17 c","mass":"1.4","radius":null,"orbit":"2.75","period":"1798.0"}]}

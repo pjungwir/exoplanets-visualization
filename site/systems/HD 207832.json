@@ -1,1 +1,1 @@
-{"id":"HD+207832","name":"HD 207832","distance":"54.4","mass":"0.94","radius":"0.901","planets":[{"name":"HD 207832 b","mass":"0.56","radius":null,"period":"161.97"},{"name":"HD 207832 c","mass":"0.73","radius":null,"period":"1155.7"}]}
+{"id":"HD+207832","name":"HD 207832","distance":"54.4","mass":"0.94","radius":"0.901","planets":[{"name":"HD 207832 b","mass":"0.56","radius":null,"orbit":"0.57","period":"161.97"},{"name":"HD 207832 c","mass":"0.73","radius":null,"orbit":"2.112","period":"1155.7"}]}

@@ -1,1 +1,1 @@
-{"id":"KOI-872","name":"KOI-872","distance":"857.0","mass":"0.902","radius":"0.94","planets":[{"name":"KOI-872 b","mass":"6.0","radius":"0.812","period":"33.60134"},{"name":"KOI-872 c","mass":"0.376","radius":null,"period":"57.004"}]}
+{"id":"KOI-872","name":"KOI-872","distance":"857.0","mass":"0.902","radius":"0.94","planets":[{"name":"KOI-872 b","mass":"6.0","radius":"0.812","orbit":"0.1967","period":"33.60134"},{"name":"KOI-872 c","mass":"0.376","radius":null,"orbit":"0.2799","period":"57.004"}]}

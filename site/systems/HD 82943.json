@@ -1,1 +1,1 @@
-{"id":"HD+82943","name":"HD 82943","distance":"27.46","mass":"1.18","radius":"1.12","planets":[{"name":"HD 82943 b","mass":"1.75","radius":null,"period":"441.2"},{"name":"HD 82943 c","mass":"2.01","radius":null,"period":"219.0"}]}
+{"id":"HD+82943","name":"HD 82943","distance":"27.46","mass":"1.18","radius":"1.12","planets":[{"name":"HD 82943 b","mass":"1.75","radius":null,"orbit":"1.19","period":"441.2"},{"name":"HD 82943 c","mass":"2.01","radius":null,"orbit":"0.746","period":"219.0"}]}

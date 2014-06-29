@@ -1,1 +1,1 @@
-{"id":"Kepler-22","name":"Kepler-22","distance":"190.0","mass":"0.97","radius":"0.979","planets":[{"name":"Kepler-22 b","mass":"0.11","radius":"0.21","period":"289.8623"}]}
+{"id":"Kepler-22","name":"Kepler-22","distance":"190.0","mass":"0.97","radius":"0.979","planets":[{"name":"Kepler-22 b","mass":"0.11","radius":"0.21","orbit":"0.849","period":"289.8623"}]}

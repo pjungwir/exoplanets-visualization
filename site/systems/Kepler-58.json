@@ -1,1 +1,1 @@
-{"id":"Kepler-58","name":"Kepler-58","distance":null,"mass":"0.95","radius":"1.03","planets":[{"name":"Kepler-58 b","mass":"0.086","radius":"0.25","period":"10.2184954"},{"name":"Kepler-58 c","mass":"0.13","radius":"0.26","period":"15.5741568"}]}
+{"id":"Kepler-58","name":"Kepler-58","distance":null,"mass":"0.95","radius":"1.03","planets":[{"name":"Kepler-58 b","mass":"0.086","radius":"0.25","orbit":null,"period":"10.2184954"},{"name":"Kepler-58 c","mass":"0.13","radius":"0.26","orbit":null,"period":"15.5741568"}]}

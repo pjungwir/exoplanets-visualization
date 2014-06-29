@@ -1,1 +1,1 @@
-{"id":"BD-061339","name":"BD-061339","distance":"20.0","mass":"0.7","radius":null,"planets":[{"name":"BD-061339 b","mass":"0.027","radius":null,"period":"3.8728"},{"name":"BD-061339 c","mass":"0.17","radius":null,"period":"125.94"}]}
+{"id":"BD-061339","name":"BD-061339","distance":"20.0","mass":"0.7","radius":null,"planets":[{"name":"BD-061339 b","mass":"0.027","radius":null,"orbit":"0.0428","period":"3.8728"},{"name":"BD-061339 c","mass":"0.17","radius":null,"orbit":"0.435","period":"125.94"}]}

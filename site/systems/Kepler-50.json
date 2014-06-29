@@ -1,1 +1,1 @@
-{"id":"Kepler-50","name":"Kepler-50","distance":null,"mass":"1.23","radius":"1.88","planets":[{"name":"Kepler-50 b","mass":"0.024","radius":"0.2","period":"7.8125124"},{"name":"Kepler-50 c","mass":"0.022","radius":"0.25","period":"9.3761368"}]}
+{"id":"Kepler-50","name":"Kepler-50","distance":null,"mass":"1.23","radius":"1.88","planets":[{"name":"Kepler-50 b","mass":"0.024","radius":"0.2","orbit":null,"period":"7.8125124"},{"name":"Kepler-50 c","mass":"0.022","radius":"0.25","orbit":null,"period":"9.3761368"}]}

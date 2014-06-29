@@ -1,1 +1,1 @@
-{"id":"Kepler-14","name":"Kepler-14","distance":"980.0","mass":"1.512","radius":"2.048","planets":[{"name":"Kepler-14 b","mass":"8.4","radius":"1.136","period":"6.790123"}]}
+{"id":"Kepler-14","name":"Kepler-14","distance":"980.0","mass":"1.512","radius":"2.048","planets":[{"name":"Kepler-14 b","mass":"8.4","radius":"1.136","orbit":null,"period":"6.790123"}]}

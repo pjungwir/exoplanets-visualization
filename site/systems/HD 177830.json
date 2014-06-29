@@ -1,1 +1,1 @@
-{"id":"HD+177830","name":"HD 177830","distance":"59.0","mass":"1.47","radius":"2.99","planets":[{"name":"HD 177830 b","mass":"1.49","radius":null,"period":"406.6"},{"name":"HD 177830 c","mass":"0.15","radius":null,"period":"110.9"}]}
+{"id":"HD+177830","name":"HD 177830","distance":"59.0","mass":"1.47","radius":"2.99","planets":[{"name":"HD 177830 b","mass":"1.49","radius":null,"orbit":"1.2218","period":"406.6"},{"name":"HD 177830 c","mass":"0.15","radius":null,"orbit":"0.5137","period":"110.9"}]}

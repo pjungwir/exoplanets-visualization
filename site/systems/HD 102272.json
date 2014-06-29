@@ -1,1 +1,1 @@
-{"id":"HD+102272","name":"HD 102272","distance":"360.0","mass":"1.9","radius":"10.1","planets":[{"name":"HD 102272 b","mass":"5.9","radius":null,"period":"127.58"},{"name":"HD 102272 c","mass":"2.6","radius":null,"period":"520.0"}]}
+{"id":"HD+102272","name":"HD 102272","distance":"360.0","mass":"1.9","radius":"10.1","planets":[{"name":"HD 102272 b","mass":"5.9","radius":null,"orbit":"0.614","period":"127.58"},{"name":"HD 102272 c","mass":"2.6","radius":null,"orbit":"1.57","period":"520.0"}]}

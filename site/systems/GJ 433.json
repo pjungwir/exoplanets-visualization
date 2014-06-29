@@ -1,1 +1,1 @@
-{"id":"GJ+433","name":"GJ 433","distance":"9.04","mass":"0.48","radius":null,"planets":[{"name":"GJ 433 b","mass":"0.0182","radius":null,"period":"7.3709"},{"name":"GJ 433 c","mass":"0.14","radius":null,"period":"3693.0"}]}
+{"id":"GJ+433","name":"GJ 433","distance":"9.04","mass":"0.48","radius":null,"planets":[{"name":"GJ 433 b","mass":"0.0182","radius":null,"orbit":"0.058","period":"7.3709"},{"name":"GJ 433 c","mass":"0.14","radius":null,"orbit":"3.6","period":"3693.0"}]}

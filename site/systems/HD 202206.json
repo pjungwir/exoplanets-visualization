@@ -1,1 +1,1 @@
-{"id":"HD+202206","name":"HD 202206","distance":"46.34","mass":"1.13","radius":"1.02","planets":[{"name":"HD 202206 b","mass":"17.4","radius":null,"period":"255.87"},{"name":"HD 202206 c","mass":"2.44","radius":null,"period":"1383.4"}]}
+{"id":"HD+202206","name":"HD 202206","distance":"46.34","mass":"1.13","radius":"1.02","planets":[{"name":"HD 202206 b","mass":"17.4","radius":null,"orbit":"0.83","period":"255.87"},{"name":"HD 202206 c","mass":"2.44","radius":null,"orbit":"2.55","period":"1383.4"}]}

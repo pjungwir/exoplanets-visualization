@@ -1,1 +1,1 @@
-{"id":"HD+169830","name":"HD 169830","distance":"36.32","mass":"1.4","radius":"1.84","planets":[{"name":"HD 169830 b","mass":"2.88","radius":null,"period":"225.62"},{"name":"HD 169830 c","mass":"4.04","radius":null,"period":"2102.0"}]}
+{"id":"HD+169830","name":"HD 169830","distance":"36.32","mass":"1.4","radius":"1.84","planets":[{"name":"HD 169830 b","mass":"2.88","radius":null,"orbit":"0.81","period":"225.62"},{"name":"HD 169830 c","mass":"4.04","radius":null,"orbit":"3.6","period":"2102.0"}]}

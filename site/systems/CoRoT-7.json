@@ -1,1 +1,1 @@
-{"id":"CoRoT-7","name":"CoRoT-7","distance":"150.0","mass":"0.93","radius":"0.87","planets":[{"name":"CoRoT-7 b","mass":"0.0151","radius":"0.15","period":"0.853585"},{"name":"CoRoT-7 c","mass":"0.0264","radius":null,"period":"3.698"}]}
+{"id":"CoRoT-7","name":"CoRoT-7","distance":"150.0","mass":"0.93","radius":"0.87","planets":[{"name":"CoRoT-7 b","mass":"0.0151","radius":"0.15","orbit":"0.0172","period":"0.853585"},{"name":"CoRoT-7 c","mass":"0.0264","radius":null,"orbit":"0.046","period":"3.698"}]}

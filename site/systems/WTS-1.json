@@ -1,1 +1,1 @@
-{"id":"WTS-1","name":"WTS-1","distance":"3200.0","mass":"1.2","radius":"1.15","planets":[{"name":"WTS-1 b","mass":"4.01","radius":"1.49","period":"3.352059"}]}
+{"id":"WTS-1","name":"WTS-1","distance":"3200.0","mass":"1.2","radius":"1.15","planets":[{"name":"WTS-1 b","mass":"4.01","radius":"1.49","orbit":"0.047","period":"3.352059"}]}

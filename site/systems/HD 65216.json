@@ -1,1 +1,1 @@
-{"id":"HD+65216","name":"HD 65216","distance":"34.3","mass":"0.92","radius":null,"planets":[{"name":"HD 65216 b","mass":"1.21","radius":null,"period":"613.1"},{"name":"HD 65216 c","mass":"2.24","radius":null,"period":"5542.0"}]}
+{"id":"HD+65216","name":"HD 65216","distance":"34.3","mass":"0.92","radius":null,"planets":[{"name":"HD 65216 b","mass":"1.21","radius":null,"orbit":"1.37","period":"613.1"},{"name":"HD 65216 c","mass":"2.24","radius":null,"orbit":null,"period":"5542.0"}]}

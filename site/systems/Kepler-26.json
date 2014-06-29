@@ -1,1 +1,1 @@
-{"id":"Kepler-26","name":"Kepler-26","distance":null,"mass":"0.65","radius":"0.59","planets":[{"name":"Kepler-26 b","mass":"0.38","radius":"0.32","period":"12.2829"},{"name":"Kepler-26 c","mass":"0.375","radius":"0.32","period":"17.2513"}]}
+{"id":"Kepler-26","name":"Kepler-26","distance":null,"mass":"0.65","radius":"0.59","planets":[{"name":"Kepler-26 b","mass":"0.38","radius":"0.32","orbit":"0.085","period":"12.2829"},{"name":"Kepler-26 c","mass":"0.375","radius":"0.32","orbit":"0.107","period":"17.2513"}]}

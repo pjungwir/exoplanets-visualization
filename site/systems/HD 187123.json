@@ -1,1 +1,1 @@
-{"id":"HD+187123","name":"HD 187123","distance":"50.0","mass":"1.06","radius":"1.17","planets":[{"name":"HD 187123 b","mass":"0.52","radius":null,"period":"3.0965828"},{"name":"HD 187123 c","mass":"1.99","radius":null,"period":"3810.0"}]}
+{"id":"HD+187123","name":"HD 187123","distance":"50.0","mass":"1.06","radius":"1.17","planets":[{"name":"HD 187123 b","mass":"0.52","radius":null,"orbit":"0.0426","period":"3.0965828"},{"name":"HD 187123 c","mass":"1.99","radius":null,"orbit":"4.89","period":"3810.0"}]}

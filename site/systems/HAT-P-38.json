@@ -1,1 +1,1 @@
-{"id":"HAT-P-38","name":"HAT-P-38","distance":"249.0","mass":"0.886","radius":"0.923","planets":[{"name":"HAT-P-38 b","mass":"0.267","radius":"0.825","period":"4.640382"}]}
+{"id":"HAT-P-38","name":"HAT-P-38","distance":"249.0","mass":"0.886","radius":"0.923","planets":[{"name":"HAT-P-38 b","mass":"0.267","radius":"0.825","orbit":"0.0523","period":"4.640382"}]}

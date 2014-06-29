@@ -1,1 +1,1 @@
-{"id":"HD+183263","name":"HD 183263","distance":"53.0","mass":"1.17","radius":"1.21","planets":[{"name":"HD 183263 b","mass":"3.67","radius":null,"period":"626.5"},{"name":"HD 183263 c","mass":"3.82","radius":null,"period":"2950.0"}]}
+{"id":"HD+183263","name":"HD 183263","distance":"53.0","mass":"1.17","radius":"1.21","planets":[{"name":"HD 183263 b","mass":"3.67","radius":null,"orbit":"1.51","period":"626.5"},{"name":"HD 183263 c","mass":"3.82","radius":null,"orbit":"4.25","period":"2950.0"}]}

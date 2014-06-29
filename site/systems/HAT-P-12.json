@@ -1,1 +1,1 @@
-{"id":"HAT-P-12","name":"HAT-P-12","distance":"142.5","mass":"0.73","radius":"0.7","planets":[{"name":"HAT-P-12 b","mass":"0.211","radius":"0.959","period":"3.2130598"}]}
+{"id":"HAT-P-12","name":"HAT-P-12","distance":"142.5","mass":"0.73","radius":"0.7","planets":[{"name":"HAT-P-12 b","mass":"0.211","radius":"0.959","orbit":"0.0384","period":"3.2130598"}]}

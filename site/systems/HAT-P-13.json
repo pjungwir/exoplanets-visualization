@@ -1,1 +1,1 @@
-{"id":"HAT-P-13","name":"HAT-P-13","distance":"214.0","mass":"1.22","radius":"1.56","planets":[{"name":"HAT-P-13 b","mass":"0.85","radius":"1.28","period":"2.916243"},{"name":"HAT-P-13 c","mass":"14.5","radius":null,"period":"448.2"}]}
+{"id":"HAT-P-13","name":"HAT-P-13","distance":"214.0","mass":"1.22","radius":"1.56","planets":[{"name":"HAT-P-13 b","mass":"0.85","radius":"1.28","orbit":"0.0426","period":"2.916243"},{"name":"HAT-P-13 c","mass":"14.5","radius":null,"orbit":"1.186","period":"448.2"}]}

@@ -1,1 +1,1 @@
-{"id":"HD+142","name":"HD 142","distance":"20.6","mass":"1.1","radius":"0.86","planets":[{"name":"HD 142 b","mass":"1.25","radius":null,"period":"349.7"},{"name":"HD 142 c","mass":"5.3","radius":null,"period":"6005.0"}]}
+{"id":"HD+142","name":"HD 142","distance":"20.6","mass":"1.1","radius":"0.86","planets":[{"name":"HD 142 b","mass":"1.25","radius":null,"orbit":"1.02","period":"349.7"},{"name":"HD 142 c","mass":"5.3","radius":null,"orbit":"6.8","period":"6005.0"}]}

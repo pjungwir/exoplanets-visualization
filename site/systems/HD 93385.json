@@ -1,1 +1,1 @@
-{"id":"HD+93385","name":"HD 93385","distance":"42.2","mass":null,"radius":null,"planets":[{"name":"HD 93385 b","mass":"0.0263","radius":null,"period":"13.186"},{"name":"HD 93385 c","mass":"0.0318","radius":null,"period":"46.025"}]}
+{"id":"HD+93385","name":"HD 93385","distance":"42.2","mass":null,"radius":null,"planets":[{"name":"HD 93385 b","mass":"0.0263","radius":null,"orbit":"0.1116","period":"13.186"},{"name":"HD 93385 c","mass":"0.0318","radius":null,"orbit":"0.257","period":"46.025"}]}

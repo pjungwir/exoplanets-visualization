@@ -1,1 +1,1 @@
-{"id":"HD+163607","name":"HD 163607","distance":"69.0","mass":"1.09","radius":"1.63","planets":[{"name":"HD 163607 b","mass":"0.77","radius":null,"period":"75.229"},{"name":"HD 163607 c","mass":"2.29","radius":null,"period":"1314.0"}]}
+{"id":"HD+163607","name":"HD 163607","distance":"69.0","mass":"1.09","radius":"1.63","planets":[{"name":"HD 163607 b","mass":"0.77","radius":null,"orbit":"0.36","period":"75.229"},{"name":"HD 163607 c","mass":"2.29","radius":null,"orbit":"2.42","period":"1314.0"}]}

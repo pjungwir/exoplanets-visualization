@@ -1,1 +1,1 @@
-{"id":"HD+217107","name":"HD 217107","distance":"19.72","mass":"1.02","radius":"1.08","planets":[{"name":"HD 217107 b","mass":"1.33","radius":null,"period":"7.12689"},{"name":"HD 217107 c","mass":"2.49","radius":null,"period":"4210.0"}]}
+{"id":"HD+217107","name":"HD 217107","distance":"19.72","mass":"1.02","radius":"1.08","planets":[{"name":"HD 217107 b","mass":"1.33","radius":null,"orbit":"0.073","period":"7.12689"},{"name":"HD 217107 c","mass":"2.49","radius":null,"orbit":"5.27","period":"4210.0"}]}

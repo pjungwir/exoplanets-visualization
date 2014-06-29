@@ -1,1 +1,1 @@
-{"id":"Kepler-21","name":"Kepler-21","distance":"108.0","mass":"1.34","radius":"1.86","planets":[{"name":"Kepler-21 b","mass":"0.033","radius":"0.1459","period":"2.785755"}]}
+{"id":"Kepler-21","name":"Kepler-21","distance":"108.0","mass":"1.34","radius":"1.86","planets":[{"name":"Kepler-21 b","mass":"0.033","radius":"0.1459","orbit":"0.042507","period":"2.785755"}]}

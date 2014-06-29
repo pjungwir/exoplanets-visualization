@@ -1,1 +1,1 @@
-{"id":"WASP-21","name":"WASP-21","distance":"230.0","mass":"1.01","radius":"1.06","planets":[{"name":"WASP-21 b","mass":"0.3","radius":"1.21","period":"4.322506"}]}
+{"id":"WASP-21","name":"WASP-21","distance":"230.0","mass":"1.01","radius":"1.06","planets":[{"name":"WASP-21 b","mass":"0.3","radius":"1.21","orbit":"0.052","period":"4.322506"}]}

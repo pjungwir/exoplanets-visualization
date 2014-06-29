@@ -1,1 +1,1 @@
-{"id":"BD20+2457","name":"BD20 2457","distance":"200.0","mass":"2.8","radius":null,"planets":[{"name":"BD20 2457 b","mass":"21.42","radius":null,"period":"379.63"},{"name":"BD20 2457 c","mass":"12.47","radius":null,"period":"621.99"}]}
+{"id":"BD20+2457","name":"BD20 2457","distance":"200.0","mass":"2.8","radius":null,"planets":[{"name":"BD20 2457 b","mass":"21.42","radius":null,"orbit":"1.45","period":"379.63"},{"name":"BD20 2457 c","mass":"12.47","radius":null,"orbit":"2.01","period":"621.99"}]}

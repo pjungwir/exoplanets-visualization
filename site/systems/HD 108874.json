@@ -1,1 +1,1 @@
-{"id":"HD+108874","name":"HD 108874","distance":"68.5","mass":"1.0","radius":"1.22","planets":[{"name":"HD 108874 b","mass":"1.36","radius":null,"period":"395.4"},{"name":"HD 108874 c","mass":"1.018","radius":null,"period":"1605.8"}]}
+{"id":"HD+108874","name":"HD 108874","distance":"68.5","mass":"1.0","radius":"1.22","planets":[{"name":"HD 108874 b","mass":"1.36","radius":null,"orbit":"1.051","period":"395.4"},{"name":"HD 108874 c","mass":"1.018","radius":null,"orbit":"2.68","period":"1605.8"}]}

@@ -1,1 +1,1 @@
-{"id":"HD+12661","name":"HD 12661","distance":"37.16","mass":"1.07","radius":"1.12","planets":[{"name":"HD 12661 b","mass":"2.3","radius":null,"period":"263.6"},{"name":"HD 12661 c","mass":"1.57","radius":null,"period":"1708.0"}]}
+{"id":"HD+12661","name":"HD 12661","distance":"37.16","mass":"1.07","radius":"1.12","planets":[{"name":"HD 12661 b","mass":"2.3","radius":null,"orbit":"0.83","period":"263.6"},{"name":"HD 12661 c","mass":"1.57","radius":null,"orbit":"2.56","period":"1708.0"}]}

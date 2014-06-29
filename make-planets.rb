@@ -31,6 +31,7 @@ CSV.foreach(planet_file, headers: true) do |row|
     name: row[0],
     mass: row[1],
     radius: row[2],
+    orbit: row[4],
     period: row[3]
   }
   star[:planets] << planet

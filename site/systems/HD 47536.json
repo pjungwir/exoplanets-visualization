@@ -1,1 +1,1 @@
-{"id":"HD+47536","name":"HD 47536","distance":"121.36","mass":"0.94","radius":"23.47","planets":[{"name":"HD 47536 b","mass":"5.0","radius":null,"period":"430.0"},{"name":"HD 47536 c","mass":"7.0","radius":null,"period":"2500.0"}]}
+{"id":"HD+47536","name":"HD 47536","distance":"121.36","mass":"0.94","radius":"23.47","planets":[{"name":"HD 47536 b","mass":"5.0","radius":null,"orbit":"1.61","period":"430.0"},{"name":"HD 47536 c","mass":"7.0","radius":null,"orbit":null,"period":"2500.0"}]}

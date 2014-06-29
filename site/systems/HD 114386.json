@@ -1,1 +1,1 @@
-{"id":"HD+114386","name":"HD 114386","distance":"28.0","mass":"0.75","radius":"0.76","planets":[{"name":"HD 114386 b","mass":"1.24","radius":null,"period":"937.0"},{"name":"HD 114386 c","mass":"1.19","radius":null,"period":"1046.0"}]}
+{"id":"HD+114386","name":"HD 114386","distance":"28.0","mass":"0.75","radius":"0.76","planets":[{"name":"HD 114386 b","mass":"1.24","radius":null,"orbit":"1.02","period":"937.0"},{"name":"HD 114386 c","mass":"1.19","radius":null,"orbit":null,"period":"1046.0"}]}

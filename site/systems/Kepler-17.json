@@ -1,1 +1,1 @@
-{"id":"Kepler-17","name":"Kepler-17","distance":"800.0","mass":"1.16","radius":"1.05","planets":[{"name":"Kepler-17 b","mass":"2.45","radius":"1.312","period":"1.4857108"}]}
+{"id":"Kepler-17","name":"Kepler-17","distance":"800.0","mass":"1.16","radius":"1.05","planets":[{"name":"Kepler-17 b","mass":"2.45","radius":"1.312","orbit":"0.02591","period":"1.4857108"}]}

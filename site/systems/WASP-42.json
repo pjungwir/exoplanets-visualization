@@ -1,1 +1,1 @@
-{"id":"WASP-42","name":"WASP-42","distance":null,"mass":null,"radius":null,"planets":[{"name":"WASP-42 b","mass":"0.5","radius":"1.08","period":"4.9816872"}]}
+{"id":"WASP-42","name":"WASP-42","distance":null,"mass":null,"radius":null,"planets":[{"name":"WASP-42 b","mass":"0.5","radius":"1.08","orbit":"0.0458","period":"4.9816872"}]}

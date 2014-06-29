@@ -1,1 +1,1 @@
-{"id":"HD+134060","name":"HD 134060","distance":"24.2","mass":null,"radius":null,"planets":[{"name":"HD 134060 b","mass":"0.0351","radius":null,"period":"3.27"},{"name":"HD 134060 c","mass":"0.1507","radius":null,"period":"1160.9"}]}
+{"id":"HD+134060","name":"HD 134060","distance":"24.2","mass":null,"radius":null,"planets":[{"name":"HD 134060 b","mass":"0.0351","radius":null,"orbit":"0.0444","period":"3.27"},{"name":"HD 134060 c","mass":"0.1507","radius":null,"orbit":"2.2263","period":"1160.9"}]}

@@ -1,1 +1,1 @@
-{"id":"HD+11964","name":"HD 11964","distance":"33.98","mass":"1.125","radius":"2.18","planets":[{"name":"HD 11964 b","mass":"0.622","radius":null,"period":"1945.0"},{"name":"HD 11964 c","mass":"0.079","radius":null,"period":"37.91"}]}
+{"id":"HD+11964","name":"HD 11964","distance":"33.98","mass":"1.125","radius":"2.18","planets":[{"name":"HD 11964 b","mass":"0.622","radius":null,"orbit":"3.16","period":"1945.0"},{"name":"HD 11964 c","mass":"0.079","radius":null,"orbit":"0.229","period":"37.91"}]}

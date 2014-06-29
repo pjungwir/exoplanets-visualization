@@ -1,1 +1,1 @@
-{"id":"HD+113538","name":"HD 113538","distance":"15.8","mass":"0.7","radius":"0.65","planets":[{"name":"HD 113538 b","mass":"0.27","radius":null,"period":"263.3"},{"name":"HD 113538 c","mass":"0.71","radius":null,"period":"1657.0"}]}
+{"id":"HD+113538","name":"HD 113538","distance":"15.8","mass":"0.7","radius":"0.65","planets":[{"name":"HD 113538 b","mass":"0.27","radius":null,"orbit":"0.71","period":"263.3"},{"name":"HD 113538 c","mass":"0.71","radius":null,"orbit":"2.43","period":"1657.0"}]}

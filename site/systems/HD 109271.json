@@ -1,1 +1,1 @@
-{"id":"HD+109271","name":"HD 109271","distance":"62.0","mass":"1.047","radius":null,"planets":[{"name":"HD 109271 b","mass":"0.054","radius":null,"period":"7.8543"},{"name":"HD 109271 c","mass":"0.076","radius":null,"period":"30.93"}]}
+{"id":"HD+109271","name":"HD 109271","distance":"62.0","mass":"1.047","radius":null,"planets":[{"name":"HD 109271 b","mass":"0.054","radius":null,"orbit":"0.079","period":"7.8543"},{"name":"HD 109271 c","mass":"0.076","radius":null,"orbit":"0.196","period":"30.93"}]}
